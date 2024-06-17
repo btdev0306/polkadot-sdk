@@ -150,7 +150,7 @@ polkadot-node-subsystem-test-helpers = { path = "../subsystem-test-helpers" }
 test-helpers = { package = "polkadot-primitives-test-helpers", path = "../../primitives/test-helpers" }
 env_logger = "0.11"
 assert_matches = "1.5.0"
-serial_test = "2.0.0"
+serial_test = "3.1.1"
 tempfile = "3.2"
 
 [features]
